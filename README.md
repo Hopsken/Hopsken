@@ -6,6 +6,6 @@
 
 👋 Hello~ I'm Hopsken. Nice to see you here.
 
-😉 I'm a Front End Developer based in Shanghai. I believe that coding is the way to *DEBUG THE WORLD*.
+😉 I'm a Front End Developer based in Shanghai. I believe that coding is the way to DEBUG THE WORLD.
 
 📨 If you want a chat, you can send me an [email](mailto:shaowei5+github@icloud.com) directly or [Twitter DM](https://twitter.com/hopsken) me. 
